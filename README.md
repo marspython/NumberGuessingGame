@@ -38,6 +38,5 @@ This project was made possible thanks to the Python community and the Tkinter li
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as need
 
-![Game Screenshot](screenshots/screenshot.jpeg)
 
 
