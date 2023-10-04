@@ -2,6 +2,8 @@
 
 Welcome to the GUI-Based Number Guessing Game project! This project is a fun and interactive Python game with a graphical user interface (GUI) that allows players to guess a randomly generated number and earn points based on their performance.
 
+![number_guessing_screenshots_1_cropped](https://github.com/marspython/Tic-Tac-Toe_game/assets/146045911/6d3c09fc-82ea-4927-9582-1f6ace5604ac)
+
 ## Features
 
 - **User-Friendly Interface:** The game provides an intuitive GUI with labels, an input field, and buttons for a smooth player experience.
